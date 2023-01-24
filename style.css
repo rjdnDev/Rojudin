@@ -1,0 +1,40 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url('img/web-hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+#about{
+  background-color: #07143f;
+  color: white;
+}
+
+.container .row .col h2{
+  color: #FAB440;
+}
+.ikon{
+  color: #4E47C6;
+}
+.gambar-img{
+  border: 3px solid #FAB440;
+}
+
+#projects{
+  background-color: #4E47C6;
+}
+.kartu{
+  background-color: #07143f;
+  color: white;
+  border: 3px solid #FAB440;
+}
+
+.kontak{
+  background-color: #07143f;
+  color: white;
+}
+
+.footer{
+  color: #FAB440;
+  text-decoration: none;
+}
